@@ -1,0 +1,26 @@
+[
+    {
+        "id_pelanggan": "P001",
+        "nama_pelanggan": "Adhitya",
+        "jns_kelamin": "Laki-Laki",
+        "alamat": "Denpasar",
+        "no_tlp": "087861630699",
+        "pekerjaan": "Mahasiswa"
+    },
+    {
+        "id_pelanggan": "P002",
+        "nama_pelanggan": "wira",
+        "jns_kelamin": "Laki-Laki",
+        "alamat": "dnp",
+        "no_tlp": "09276384628",
+        "pekerjaan": "mahasiswa"
+    },
+    {
+        "id_pelanggan": "P003",
+        "nama_pelanggan": "Zuha",
+        "jns_kelamin": "P",
+        "alamat": "Japan",
+        "no_tlp": "09374836725",
+        "pekerjaan": "Guru"
+    }
+]
