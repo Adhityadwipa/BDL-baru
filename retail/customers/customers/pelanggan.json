@@ -1,0 +1,20 @@
+[
+    {
+        "id_pelanggan": "P001",
+        "nama_pelanggan": {
+            "nama_depan": "Adhitya",
+            "nama_belakang": "Dwipayana"
+        },
+        "jns_kelamin": "L",
+        "alamat": {
+            "Provinsi": "Bali",
+            "Kota": "Bangli"
+        },
+        "no_tlp": "087861630697",
+        "pekerjaan": {
+            "A": "Mahasiswa",
+            "B": "Dosen",
+            "C": "Siswa"
+        }
+    }
+]
